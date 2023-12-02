@@ -1,0 +1,5 @@
+[
+    { "name": "Espresso", "preparationTime": 2 },
+    { "name": "Latte", "preparationTime": 5 },
+    { "name": "Cappuccino", "preparationTime": 5 }
+]
